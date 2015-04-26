@@ -14,3 +14,4 @@ awesome-webcomics
 * [Bastard Operator from Hell - The Official Archive](http://bofh.ntk.net/BOFH/)
 * [Geek & Poke](http://geek-and-poke.com/)
 * [Poorly Drawn Lines](http://poorlydrawnlines.com/comic/)
+* [Dilbert](http://dilbert.com/)

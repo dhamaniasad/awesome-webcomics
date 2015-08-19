@@ -15,3 +15,4 @@ awesome-webcomics
 * [Geek & Poke](http://geek-and-poke.com/)
 * [Poorly Drawn Lines](http://poorlydrawnlines.com/comic/)
 * [Dilbert](http://dilbert.com/)
+* [CommitStrip](http://www.commitstrip.com/en/)

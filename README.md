@@ -17,3 +17,4 @@ awesome-webcomics
 * [Dilbert](http://dilbert.com/)
 * [CommitStrip](http://www.commitstrip.com/en/)
 * [Cube Drone](http://cube-drone.com/comics/)
+* [Amphibian](http://amphibian.com/)

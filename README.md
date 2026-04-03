@@ -19,3 +19,4 @@ awesome-webcomics
 * [Cube Drone](http://cube-drone.com/comics/)
 * [Amphibian](http://amphibian.com/)
 * [Questionable Content](http://questionablecontent.net/)
+- [TaleForge](https://www.tale-forge.com/) - Browser-based manga/webtoon editor with panel layouts, speech bubbles, episode management, and built-in reader.

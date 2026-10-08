@@ -19,3 +19,4 @@ awesome-webcomics
 * [Cube Drone](http://cube-drone.com/comics/)
 * [Amphibian](http://amphibian.com/)
 * [Questionable Content](http://questionablecontent.net/)
+* [Hardly Funny](https://hardlyfunny.com/)
